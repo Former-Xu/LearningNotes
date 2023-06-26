@@ -1,2 +1,2 @@
 # LearningNotes
-Some learning notes on C++ game development
+Some learning notes during learning C++ game development.
